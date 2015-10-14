@@ -1,6 +1,6 @@
 szablon
-test
-0
+blazag
+1
 1
 1
 0
